@@ -1,5 +1,5 @@
 # !/bin/bash
-npm install && \
-cd site && \
-hugo --gc --minify
-
+# deploy to cloudflare pages
+npm install \
+&& hugo mod graph \
+&& hugo --gc --minify
