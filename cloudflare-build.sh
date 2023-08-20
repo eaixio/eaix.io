@@ -1,4 +1,5 @@
 # !/bin/bash
 npm install && \
 cd site && \
-hugo
+hugo --gc --minify
+
