@@ -51,3 +51,4 @@ features:
       label: ""
       link: ""
 ---
+{{ readFile "app-ads.txt" }}
