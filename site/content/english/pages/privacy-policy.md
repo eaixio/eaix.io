@@ -1,33 +1,32 @@
 ---
-title: "Privacy"
+title: "Privacidade"
 # meta title
-meta_title: ""
+meta_title: "Cantadinha - Política de Privacidade"
 # meta description
-description: "This is meta description"
+description: "Política de privacidade do aplicativo Cantadinha, detalhando o uso de dados e proteção à privacidade."
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Responsabilidade dos Contribuidores
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+No Cantadinha, priorizamos a segurança dos usuários e a qualidade do conteúdo oferecido. Os usuários são responsáveis por garantir que suas contribuições no app estejam de acordo com as diretrizes da comunidade e os termos de uso. Qualquer conteúdo inadequado ou prejudicial estará sujeito a moderação e remoção.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Coleta de Informações Pessoais
 
-#### Gathering of Personal Information
+O Cantadinha coleta apenas as informações pessoais mínimas necessárias para melhorar a funcionalidade do app. Isso pode incluir dados anônimos de uso, métricas de desempenho do aplicativo e informações sobre o dispositivo. Não coletamos dados sensíveis, como nome, endereço de e-mail ou informações de contato, a menos que fornecidos explicitamente pelo usuário para fins relacionados ao aplicativo (ex.: feedback ou suporte).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Proteção das Informações Pessoais
 
-#### Protection of Personal- Information
+Estamos comprometidos em proteger os dados dos usuários. Todas as informações coletadas são armazenadas de forma segura e utilizadas exclusivamente para melhorias no app ou para resolução de problemas. Nenhum dado do usuário é compartilhado, vendido ou divulgado a terceiros sem consentimento explícito, exceto quando exigido por lei.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Alterações na Política de Privacidade
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+1. Esta Política de Privacidade pode ser atualizada periodicamente para refletir mudanças nas exigências legais ou nas funcionalidades do app.
+2. Os usuários serão notificados sobre alterações significativas por meio de notificações no app ou por e-mail (caso os dados de contato tenham sido fornecidos).
+3. O uso contínuo do app após as alterações indica a aceitação da política atualizada.
+4. Para dúvidas ou preocupações sobre esta Política de Privacidade, os usuários podem entrar em contato com nossa equipe de suporte por meio do aplicativo.
 
-#### Privacy Policy Changes
+#### Informações de Contato
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco diretamente pelo aplicativo ou através do e-mail [seu e-mail de suporte].
