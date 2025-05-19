@@ -12,16 +12,6 @@ url = "sobre/"
 weight = 2
 
 [[main]]
-name = "APIs"
-url = "apis/"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Documentação"
-url = "docs/"
-
-[[main]]
 parent = "Extra"
 name = "Blog"
 url = "blog/"
@@ -38,11 +28,6 @@ url = "sobre/"
 weight = 1
 
 [[footer]]
-name = "APIs"
-url = "apis/"
-weight = 2
-
-[[footer]]
 name = "Politica de Privacidade"
 url = "privacidade/"
-weight = 3
+weight = 2

@@ -1,54 +1,55 @@
 ---
 # Banner
 banner:
-  title: "APIs com alta performance e disponibilidade para negócios digitais"
-  content: "A EAIX é uma empresa de tecnologia que oferece soluções de APIs para negócios digitais. Nossa plataforma de APIs é construída com tecnologia de ponta e oferece alta performance e disponibilidade para que você possa focar no seu negócio."
+  title: "Soluções Tecnológicas de Alta Performance para Transformação Digital"
+  content: "A EAIX é uma empresa especializada em desenvolvimento de software, APIs de alto desempenho e soluções de inteligência artificial para empresas que buscam inovação e crescimento no mercado digital."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Entre em contato"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/contato"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Desenvolvimento de Software Personalizado"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Criamos soluções de software sob medida para atender às necessidades específicas do seu negócio, com foco em desempenho, escalabilidade e experiência do usuário."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Aplicativos móveis nativos e multiplataforma"
+      - "Sistemas web responsivos e de alta performance"
+      - "Integração com sistemas legados e APIs de terceiros"
+      - "Arquitetura escalável para crescimento futuro"
+      - "Interface de usuário intuitiva e moderna"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Conheça nossos serviços"
+      link: "/sobre"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "APIs Robustas e Flexíveis"
+    image: "/images/service-2.png"
+    content: "Nossas APIs são construídas com tecnologias de ponta, oferecendo alta disponibilidade, segurança e desempenho para impulsionar seu negócio digital."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "APIs RESTful e GraphQL de alto desempenho"
+      - "Documentação completa e de fácil compreensão"
+      - "Autenticação segura e controle de acesso"
+      - "Integração contínua e entrega contínua (CI/CD)"
+      - "Monitoramento em tempo real e análise de métricas"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Mais informações"
+      link: "/sobre"
+
+  - title: "Soluções de Inteligência Artificial"
+    image: "/images/service-3.png"
+    content: "Potencialize seu negócio com nossas soluções de IA, que transformam dados em insights valiosos e automações inteligentes para otimizar processos e gerar valor."
+    bulletpoints:
+      - "Processamento de linguagem natural e análise de sentimento"
+      - "Visão computacional e reconhecimento de imagens"
+      - "Modelos preditivos e análise de dados"
+      - "Chatbots e assistentes virtuais personalizados"
+      - "Automação de processos com aprendizado de máquina"
+    button:
+      enable: true
+      label: "Descubra o poder da IA"
+      link: "/contato"
 ---
-{{ readFile "app-ads.txt" }}

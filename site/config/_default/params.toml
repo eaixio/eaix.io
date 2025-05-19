@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "© 2023 EAIX. Todos os direitos reservados."
 
 # Preloader
 [preloader]
@@ -37,7 +37,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Faça um orçamento"
+label = "Solicite um Orçamento"
 link = "contato"
 
 # search
@@ -53,9 +53,9 @@ show_categories = true
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["EAIX", "APIs", "Software", "Desenvolvimento", "Inteligência Artificial"]
+description = "EAIX - Soluções de software, APIs e inteligência artificial para negócios digitais"
+author = "EAIX"
 image = "images/og-image.png"
 
 
@@ -69,10 +69,10 @@ mastodon = "" # Your verification code
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Este site utiliza cookies para garantir a melhor experiência. Ao continuar navegando, você concorda com o uso de cookies."
+button = "Aceito"
 
 ######################## sidebar widgets #########################
 [widgets]
@@ -81,16 +81,16 @@ sidebar = ["categories", "tags"]
 
 # google map
 [google_map]
-enable = false
+enable = true
 map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "-23.5617673"
+map_longitude = "-46.6550107"
 map_marker = "images/marker.png"
 
 
 # Subscription
 [subscription]
-enable = false
+enable = true
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"

@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
+title: "Pronto para transformar seu negócio com tecnologia de ponta?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
+description: "Na EAIX, transformamos ideias em soluções tecnológicas de alto impacto. Desde APIs robustas até aplicações com IA integrada, nosso time está pronto para impulsionar sua jornada digital."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/hugoplate"
+  label: "Solicite uma Consultoria Gratuita"
+  link: "/contato"
 
 # don't create a separate page
 _build:
