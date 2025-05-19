@@ -12,14 +12,9 @@ url = "sobre/"
 weight = 2
 
 [[main]]
-parent = "Extra"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Extra"
 name = "Contato"
 url = "contato/"
+weight = 3
 
 # footer menu
 [[footer]]
@@ -28,6 +23,6 @@ url = "sobre/"
 weight = 1
 
 [[footer]]
-name = "Politica de Privacidade"
-url = "privacidade/"
+name = "Contato"
+url = "contato/"
 weight = 2
